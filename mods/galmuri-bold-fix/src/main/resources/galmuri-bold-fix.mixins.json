@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "local.galmuri.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "client": [
+    "TrueTypeProviderAccessor",
+    "GalmuriBoldMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
