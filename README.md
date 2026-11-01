@@ -7,7 +7,7 @@
 
 ## 설치 방법
 
-`resourcepacks` 에 폴더를 위치시킨 후 리소스팩을 활성화하세요.
+[최신 릴리스](https://github.com/AndyH0ng/minecraft-galmuri/releases/latest)에서 리소스팩 ZIP을 받아 `resourcepacks`에 넣고 활성화하세요.
 
 OS 별 디렉토리는 아래를 참조
 
@@ -26,10 +26,6 @@ OS 별 디렉토리는 아래를 참조
 ~/.minecraft/resourcepacks
 ```
 
-
-## 호환성
-
-리소스팩 메타데이터는 기존 형식 8 지원을 유지하면서 26.3(97.1) 및 26.4 Snapshot 6(101.0)의 `min_format`·`max_format` 선언을 포함합니다. 게임 내 확인은 26.3에서 진행했습니다. 폰트 파일, 크기, 오버샘플링은 변경하지 않았습니다.
 
 ## 볼드 겹침 보정 (선택)
 
